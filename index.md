@@ -18,7 +18,7 @@ DeXian Stake Earning was developed by the technical team of KaiYuan Epoch Valida
 
 ## What is the necessity of the Dexian Stake Earning protocol and what problem does it solve?
 
-DeXian provides a one-stop solution to the problem of fast stake and stake, especially offering fast unstacke service. It allows users to eliminate waiting for the approximately 10 to 15 days unlocking period of Radix unstacke under regular cases, improving the liquidity of XRD, increasing capital utilization and providing convenience for users.
+DeXian provides a one-stop solution to the problem of fast stake and unstake, especially offering fast unstake service. It allows users to eliminate waiting for the approximately 10 to 15 days unlocking period of Radix unstacke under regular cases, improving the liquidity of XRD, increasing capital utilization and providing convenience for users.
 
 
 ## How does DSE (DeXian Stake Earning) work before Babylon smart contracts go live?
