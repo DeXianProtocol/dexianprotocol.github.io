@@ -24,7 +24,7 @@ DeXian provides a one-stop solution to the problem of fast stake and unstake, es
 
 ## How does DSE (DeXian Staking Earning) work before Babylon smart contracts go live?
 
-The DSE currently operates in a centralized way and it is an early verification product before the official decentralized service goes live (will be available when Babylon is launched).
+The DeXian Staking Earning currently operates in a centralized way and it is an early verification product before the official decentralized service goes live (will be available when Babylon is launched).
 
 The following are illustrative examples.
 
