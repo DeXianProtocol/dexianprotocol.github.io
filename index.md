@@ -34,17 +34,25 @@ The following are illustrative examples.
 
 #### JOIN
 
-1. Users JOIN 180 XRD, the net value of DSE units at this point is 1.09XRD/DSExrd (2023.2.20)
-[https://stokenet-explorer.radixdlt.com/#/transactions/4731637ffb30819ae967e775283085a649861b7a42560af4381632e2605190ae](https://stokenet-explorer.radixdlt.com/#/transactions/4731637ffb30819ae967e775283085a649861b7a42560af4381632e2605190ae)
+1. Users JOIN 180 XRD, the net value of DSE units at this point is 1.09XRD/DSExrd (2023.2.20)  
 
-2. Users will receive approximately 165 DSExrd equivalent to 180XRD. **DSExrd will only mint when JOIN occurs.** [https://stokenet-explorer.radixdlt.com/#/transactions/7b13576b36fd158882d95e68fdfed6ee351cf5b676c8d9d2d1572c5245bee6af](https://stokenet-explorer.radixdlt.com/#/transactions/7b13576b36fd158882d95e68fdfed6ee351cf5b676c8d9d2d1572c5245bee6af). 
+[https://stokenet-explorer.radixdlt.com/#/transactions/4731637ffb30819ae967e775283085a649861b7a42560af4381632e2605190ae](https://stokenet-explorer.radixdlt.com/#/transactions/4731637ffb30819ae967e775283085a649861b7a42560af4381632e2605190ae)  
+
+2. Users will receive approximately 165 DSExrd equivalent to 180XRD. **DSExrd will only mint when JOIN occurs.**   
+
+[https://stokenet-explorer.radixdlt.com/#/transactions/7b13576b36fd158882d95e68fdfed6ee351cf5b676c8d9d2d1572c5245bee6af](https://stokenet-explorer.radixdlt.com/#/transactions/7b13576b36fd158882d95e68fdfed6ee351cf5b676c8d9d2d1572c5245bee6af). 
 ![mint](assets/images/mint.png)
 
 
 #### REDEEM
-3. Users want to REDEEM 50 DSExrd after certain time, the net value at this point is 1.02 (2023.1.12) . [https://stokenet-explorer.radixdlt.com/#/transactions/2d047be598e63fa263fd14427a1efae568cd0d1c9ef8110c06c14b2f4aaa307e](https://stokenet-explorer.radixdlt.com/#/transactions/2d047be598e63fa263fd14427a1efae568cd0d1c9ef8110c06c14b2f4aaa307e)
 
-4. Users will receive approximately 51 XRD equivalent to 50 DSExrd, while the redeemed DSExrd will be burned. (**A fee will be charged for fast redemptions**):[https://stokenet-explorer.radixdlt.com/#/transactions/d0e1a77a52de21ce80a61d265f785315ad31c9f06f5ab532d5e3c6d9dc7aba6b](https://stokenet-explorer.radixdlt.com/#/transactions/d0e1a77a52de21ce80a61d265f785315ad31c9f06f5ab532d5e3c6d9dc7aba6b), Burn records：
+3. Users want to REDEEM 50 DSExrd after certain time, the net value at this point is 1.02 (2023.1.12)   
+[https://stokenet-explorer.radixdlt.com/#/transactions/2d047be598e63fa263fd14427a1efae568cd0d1c9ef8110c06c14b2f4aaa307e](https://stokenet-explorer.radixdlt.com/#/transactions/2d047be598e63fa263fd14427a1efae568cd0d1c9ef8110c06c14b2f4aaa307e)
+
+4. Users will receive approximately 51 XRD equivalent to 50 DSExrd, while the redeemed DSExrd will be burned. (**A fee will be charged for fast redemptions**)  
+[https://stokenet-explorer.radixdlt.com/#/transactions/d0e1a77a52de21ce80a61d265f785315ad31c9f06f5ab532d5e3c6d9dc7aba6b](https://stokenet-explorer.radixdlt.com/#/transactions/d0e1a77a52de21ce80a61d265f785315ad31c9f06f5ab532d5e3c6d9dc7aba6b)  
+
+Burn records：
 [https://stokenet-explorer.radixdlt.com/#/transactions/f0fa8ea84e9c18f719cdc23c5303fe2bdadd42333171c8b92c5a2d6fcb2a3814](
 https://stokenet-explorer.radixdlt.com/#/transactions/f0fa8ea84e9c18f719cdc23c5303fe2bdadd42333171c8b92c5a2d6fcb2a3814)
 
