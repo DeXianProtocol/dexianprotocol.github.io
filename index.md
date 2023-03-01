@@ -10,7 +10,7 @@ created: 1677076921879
 
 ## What is DeXian Staking Earning?
 
-DeXian Staking Earning (DSE) is a liquid staking protocol based on Radix, allowing users to fast **JOIN** the liquid staking, and earn stable proceeds through the DeXian service. Especially, users can immediately redeem their XRD invested without waiting for the Radix unstaking delay.
+DeXian Staking Earning (DSE) is a liquid staking protocol based on Radix, allowing users to fast **JOIN** the liquid staking, and earn stable proceeds through the DeXian service. Especially, users can **immediately REDEEM** their XRD invested without waiting for the Radix unstaking delay.
 
 The DSE protocol will use algorithms to ensure that XRD staked by users will not be concentrated on a few validators, increasing the decentralization, stability and robustness of the Radix network.
 
@@ -51,7 +51,7 @@ The following are illustrative examples.
 [https://stokenet-explorer.radixdlt.com/#/transactions/2d047be598e63fa263fd14427a1efae568cd0d1c9ef8110c06c14b2f4aaa307e](https://stokenet-explorer.radixdlt.com/#/transactions/2d047be598e63fa263fd14427a1efae568cd0d1c9ef8110c06c14b2f4aaa307e)
 
 4. Users will receive approximately 51 XRD equivalent to 50 DSExrd, while the redeemed DSExrd will be **burned**. (**A fee will be charged for fast redemptions**)  
-[https://stokenet-explorer.radixdlt.com/#/transactions/d0e1a77a52de21ce80a61d265f785315ad31c9f06f5ab532d5e3c6d9dc7aba6b](https://stokenet-explorer.radixdlt.com/#/transactions/d0e1a77a52de21ce80a61d265f785315ad31c9f06f5ab532d5e3c6d9dc7aba6b)
+[https://stokenet-explorer.radixdlt.com/#/transactions/d0e1a77a52de21ce80a61d265f785315ad31c9f06f5ab532d5e3c6d9dc7aba6b](https://stokenet-explorer.radixdlt.com/#/transactions/d0e1a77a52de21ce80a61d265f785315ad31c9f06f5ab532d5e3c6d9dc7aba6b)  
 
 Burn records：  
 [https://stokenet-explorer.radixdlt.com/#/transactions/f0fa8ea84e9c18f719cdc23c5303fe2bdadd42333171c8b92c5a2d6fcb2a3814](
