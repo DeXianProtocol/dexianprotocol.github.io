@@ -64,6 +64,24 @@ https://stokenet-explorer.radixdlt.com/#/transactions/f0fa8ea84e9c18f719cdc23c53
 
 DSE is supported by the earnings generated from staking return on Radix validators, and **ALL** of these earnings are shared by DSExrd holders. The net value of DSExrd will increase steadily as the user’s holding period gets longer, while the yield of DSExrd will fluctuate along with the Radix staking APY.
 
+## Where do all the XRD go that users join? How does DSE select the validator?
+
+The XRD that users join through DSE are staked on Radix validators. DSE will select the validators based on algorithms which consider multiple factors (ranking, fees, recent uptime, etc.), and as DSE is currently an MVP and focuses on functional integrity, it simply selects [KaiYuan Epoch](https://goxrd.com).
+
+## Where do the funds in the current DSE funding pool come from? Does it support unlimited fast redemptions?
+
+In the current MVP phase, the funds of the pool are actively raised by DeXian community advocates. When users select the fast redemption option, the buffer pool will release a sum of funds for immediate payment, which is also the reason why a fee is charged for this service. 
+
+However, when the requested amount for fast redemption exceeds the pool balance, the user will not be able to use the fast redemption service and DSE will only support the normal redemption service at this point, which we have also explained in detail at the redemption interface.
+
+## What is the roadmap for DSE once Babylon and the native liquid stake go live?
+
+Once Babylon and the native liquid stake go live, DSE will also be re-implemented using Scrypto, allowing any user to provide liquidity to the pool through the DSE protocol, while the interest rate for fast redemption will be market-oriented and dynamically adjusted based on supply and demand, with the liquidity provider sharing in the interest rate gains. 
+
+DeXian will also further extend and integrate the funding pool with Lending Protocol to diversify the DeFi ecosystem and practical application scenarios of XRD.
+
+![dse funds flow architecture](assets/images/dse_architecture.png)
+
 ## What about the fee for fast redemption？
 
 Currently, the fee charged for fast redemption is basically equal to the 10 to 15-day staking earnings.
