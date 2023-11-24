@@ -76,4 +76,4 @@ defaults:
       # hero_image: /path/to/hero-image.jpg
       show_sidebar: true
 
-footer_menu: footer_menu
+#footer_menu: footer_menu

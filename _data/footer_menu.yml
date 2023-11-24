@@ -1,11 +1,12 @@
-style: is-light
-items:
-  - title: X
-    icon: fa-x
-    link: https://x.com/DeXianProtocol
-  - title: telegram
-    icon: fa-telegram
-    link: https://t.me/dexianio
-  - title: github
-    icon: fa-github
-    link: https://github.com/DeXianProtocol
+# style: is-light
+# items:
+#   - title: X
+#     icon: fa-x
+#     link: https://x.com/DeXianProtocol
+#   - title: telegram
+#     icon: fa-telegram
+#     link: https://t.me/dexianio
+#   - title: github
+#     icon: fa-github
+#     link: https://github.com/DeXianProtocol
+# dosen't work
