@@ -1,12 +1,18 @@
 style: is-light
 items:
-  - title: Learning
-    subtitle: Enhance the depth and usefulness of learning.
-    icon: fa-copy
-  - title: Thinking
-    subtitle: Concrete and systematic thinking.
-    icon: fa-mail-bulk
-  - title: Memorizing
-    subtitle: Improve efficiency and quality of memory.
+  - title: Open Source
+    subtitle: Fully Open Source.
     icon: fa-github
+  - title: Permissionless
+    subtitle: Open Finance/DeFi.
+    icon: fa-coins
+  - title: Transparency
+    subtitle: Concrete and systematic thinking.
+    icon: fa-window-restore
+  - title: Favorable
+    subtitle: Low-Friction.
+    icon: fa-mail-bulk
+  - title: Community-Driven
+    subtitle: Improve efficiency and quality of memory.
+    icon: fa-people-group
     icon_brand: true
