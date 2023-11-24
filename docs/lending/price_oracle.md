@@ -16,9 +16,10 @@ We contextualize the design of a neutral role provider that uses cryptography to
 ![price oracle](/assets/images/lending_protocol_price_oracle.png)
 
 #### Price Feed Provider
-* Current price sources: [coingecko](https://www.coingecko.com/en/coins/radix), [bitfinex](https://trading.bitfinex.com/t/XRD:USD),[gate.io](https://www.gate.io/zh/trade/XRD_USDT), [kucoin](https://www.kucoin.com/trade/XRD-USDT)
+* Current price sources: [coingecko](https://www.coingecko.com/en/coins/radix), [bitfinex](https://trading.bitfinex.com/t/XRD:USD), [gate.io](https://www.gate.io/zh/trade/XRD_USDT), [kucoin](https://www.kucoin.com/trade/XRD-USDT)
 * The above prices are signed using cryptography and the public key is made public so that anyone can verify the information, by accessing the endpoint.
 * The price provider is a neutral actor that only aims to provide secure, timely and reliable price information.
+![xrd-usdc](/assets/images/xrd-usdt-endpoint.png)
 
 #### Public Verifiable
 * Price information contains price, timestamp, epoch, and token address information to prevent tampering or replay.
