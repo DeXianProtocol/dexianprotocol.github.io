@@ -36,7 +36,8 @@ github_username:  DeXianProtocol
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
-#  - jekyll-paginate
+  - jekyll-paginate
+
 
 
 # Exclude from processing.
@@ -62,7 +63,7 @@ plugins:
 
 # pagination settings
 paginate: 5
-paginate_path: /lending/page:num
+paginate_path: /blog/page:num
 
 defaults:
   -
@@ -74,3 +75,5 @@ defaults:
       layout: post
       # hero_image: /path/to/hero-image.jpg
       show_sidebar: true
+
+footer_menu: footer_menu
