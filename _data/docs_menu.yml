@@ -1,0 +1,10 @@
+- label: Lending Protocol
+  items:
+    - name: Price Oracle
+      link: /docs/lending/price_oracle/
+    - name: Liquidation
+      link: /docs/lending/liquidation/
+- label: Staking Earning
+  items:
+    - name: Staking Earning(MVP)
+      link: /docs/dse/mvp_qa/

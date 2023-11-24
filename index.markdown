@@ -6,7 +6,7 @@ title: DeXian Protocol Docs
 subtitle: bringing greater liquidity and more efficient trading experience to Radix.
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 
 ---
 ## Docs for DeXian Staking Earning, Lending Protocol
