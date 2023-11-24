@@ -1,18 +1,13 @@
 style: is-light
 items:
   - title: Open Source
-    subtitle: Fully Open Source.
     icon: fa-github
+    icon_brand: true
   - title: Permissionless
-    subtitle: Open Finance/DeFi.
     icon: fa-coins
   - title: Transparency
-    subtitle: Concrete and systematic thinking.
     icon: fa-window-restore
   - title: Favorable
-    subtitle: Low-Friction.
     icon: fa-mail-bulk
   - title: Community-Driven
-    subtitle: Improve efficiency and quality of memory.
     icon: fa-people-group
-    icon_brand: true
