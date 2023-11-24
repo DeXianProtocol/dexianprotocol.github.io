@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+menubar: docs_menu
 title: The Price Oracle of DeXian Lending Protocol
 subtitle: reliable, up to date, and secure.
 # hero_image: /path/to/image.jpg

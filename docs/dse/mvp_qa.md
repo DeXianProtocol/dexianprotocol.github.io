@@ -1,9 +1,10 @@
 ---
-id: rp69q8s3cztry8uikzrfys0
-title: DeXian Staking Earning
-desc: Fast Stake, Faster unstake
-updated: 1677079434533
-created: 1677076921879
+layout: page
+menubar: docs_menu
+title: DeXian Staking Earning(MVP) QA
+subtitle: Fast Stake, Faster Unstake
+show_sidebar: false
+toc: true
 ---
 
 
