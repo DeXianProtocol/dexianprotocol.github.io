@@ -4,7 +4,8 @@ menubar: docs_menu
 title: The Price Oracle of DeXian Lending Protocol
 subtitle: reliable, up to date, and secure.
 # hero_image: /path/to/image.jpg
-hero_darken: true
+show_sidebar: false
+toc: true
 ---
 ## Price Oracle
 
