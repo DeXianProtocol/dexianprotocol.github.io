@@ -38,7 +38,7 @@ The following are illustrative examples.
 
 #### JOIN
 
-![join process](assets/images/join.png)
+![join process](/assets/images/join.png)
 
 1. Users **JOIN** 180 XRD, the net value of DSE units at this point is 1.09XRD/DSExrd (2023.2.20)
 [https://stokenet-explorer.radixdlt.com/#/transactions/4731637ffb30819ae967e775283085a649861b7a42560af4381632e2605190ae](https://stokenet-explorer.radixdlt.com/#/transactions/4731637ffb30819ae967e775283085a649861b7a42560af4381632e2605190ae)
@@ -46,11 +46,11 @@ The following are illustrative examples.
 2. Users will receive approximately 165 DSExrd equivalent to 180XRD. **DSExrd will only mint when JOIN occurs.**  
 [https://stokenet-explorer.radixdlt.com/#/transactions/7b13576b36fd158882d95e68fdfed6ee351cf5b676c8d9d2d1572c5245bee6af](https://stokenet-explorer.radixdlt.com/#/transactions/7b13576b36fd158882d95e68fdfed6ee351cf5b676c8d9d2d1572c5245bee6af)  
 
-![mint](assets/images/mint.png)
+![mint](/assets/images/mint.png)
 
 
 #### REDEEM
-![redeem process](assets/images/redeem.png)
+![redeem process](/assets/images/redeem.png)
 3. Users want to **REDEEM** 50 DSExrd after certain time, the net value at this point is 1.02 (2023.1.12).  
 [https://stokenet-explorer.radixdlt.com/#/transactions/2d047be598e63fa263fd14427a1efae568cd0d1c9ef8110c06c14b2f4aaa307e](https://stokenet-explorer.radixdlt.com/#/transactions/2d047be598e63fa263fd14427a1efae568cd0d1c9ef8110c06c14b2f4aaa307e)
 
@@ -81,7 +81,7 @@ Once Babylon and the native liquid stake go live, DSE will also be re-implemente
 
 DeXian will also further extend and integrate the funding pool with Lending Protocol to diversify the DeFi ecosystem and practical application scenarios of XRD.
 
-![dse funds flow architecture](assets/images/dse_architecture.png)
+![dse funds flow architecture](/assets/images/dse_architecture.png)
 
 ## What about the fee for fast redemption？
 
