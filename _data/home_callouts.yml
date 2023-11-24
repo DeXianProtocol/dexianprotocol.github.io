@@ -10,4 +10,5 @@ items:
   - title: Favorable
     icon: fa-mail-bulk
   - title: Community-Driven
-    icon: fa-solid fa-people-group
+    icon: fa-users-cog
+    
