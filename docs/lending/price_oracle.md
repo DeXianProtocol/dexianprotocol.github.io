@@ -15,10 +15,11 @@ Throughout the DeXian Lending Protocol, we rely on reliable, up-to-date, and sec
 We propose the design of a neutral role provider that utilizes cryptography to sign price information, enabling anyone to verify the data. As illustrated in the figure:
 ![price oracle](/assets/images/lending_protocol_price_oracle.png)
 
-#### Price Feed Provider
+#### Price Provider
 * Current price sources: [coingecko](https://www.coingecko.com/en/coins/radix), [bitfinex](https://trading.bitfinex.com/t/XRD:USD), [gate.io](https://www.gate.io/zh/trade/XRD_USDT), [kucoin](https://www.kucoin.com/trade/XRD-USDT)
 * The aforementioned prices are cryptographically signed, with the public key readily available for anyone to verify the information by accessing the endpoint.
-* The price provider acts as an impartial entity solely dedicated to delivering secure, timely, and reliable price data.
+* The [price provider](https://price.dexian.io/stokenet/xrd-usdt) acts as an impartial entity solely dedicated to delivering secure, timely, and reliable price data.
+
 ![xrd-usdc](/assets/images/xrd-usdt-endpoint.png)
 
 #### Public Verifiable
