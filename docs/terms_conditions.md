@@ -3,7 +3,7 @@ layout: page
 menubar: docs_menu
 title: Terms and Conditions
 show_sidebar: false
-toc: true
+toc: false
 ---
 Terms and Conditions
 =====================

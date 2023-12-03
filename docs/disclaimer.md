@@ -3,7 +3,7 @@ layout: page
 menubar: docs_menu
 title: Disclaimer
 show_sidebar: false
-toc: true
+toc: false
 ---
 Disclaimer
 ===========

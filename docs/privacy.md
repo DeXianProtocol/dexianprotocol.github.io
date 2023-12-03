@@ -3,7 +3,7 @@ layout: page
 menubar: docs_menu
 title: Privacy Notice
 show_sidebar: false
-toc: true
+toc: false
 ---
 Privacy Notice
 ===============
