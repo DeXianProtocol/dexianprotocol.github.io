@@ -8,3 +8,11 @@
   items:
     - name: Staking Earning(MVP)
       link: /docs/dse/mvp_qa
+- label: Terms
+  items:
+    - name: Terms and Conditions
+      link: /docs/terms_conditions
+    - name: Disclaimer
+      link: /docs/disclaimer
+    - name: Privacy Notice
+      link: /docs/privacy
