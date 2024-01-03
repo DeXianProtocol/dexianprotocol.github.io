@@ -20,15 +20,15 @@ DeXian协议是基于Radix分布式帐本的流动性协议。通常流动性被
 * Staking Earing(DSE)，它是Radix网络上基原生Liquid Stake提供的组合便捷服务，总体来说：
 #### 保障Radix保持更平衡健壮的网络基础设施
 DSE通过公开的Staking Network数据结合平衡算法，在保障用户尽可能最大化Stake收益的前提下，均匀平衡地将XRD分布到不同验证器(validator)上，保障了Radix网络更加平衡，更加健壮和去中心化。
-![assets/images/stake.png]
+![staking rebalance](/assets/images/stake.png)
 #### 可选的立即赎回(instant unstake)
 DSE的持有者在赎回之前参与(join)的份额时，支持可选的快速赎回(Redeem)，能够以高效，低摩擦的方式快速获得流动性，而不必等到Unstake的周期到期，所需费用在立即赎回时一次性支付，费用的多少依据XRD流动性池的利率机制动态变化。
-![assets/images/unstake.png](redeem)
+![redeem](/assets/images/unstake.png)
 #### 广泛支持所有验证节点的赎回，认领操作。
 不仅DSE的持有者可以便捷使用立即赎回功能，所有验证节点发行的LSUs都可以利用DeXian协议获得可选的立即赎回的能力，也可认领unstake后获得的ClaimNFT.
 #### 为DSE提供XRD的流动性
 所有XRD的持有者都可以为DSE池提供流动性，并分享流动性消耗者(立即赎回用记)支付费用收益。
-![assets/images/dse_liquidity_pool.png](DeXian Liquidity Pool)
+![DeXian Liquidity Pool](/assets/images/dse_liquidity_pool.png)
 #### 立即赎回的费用如何确定
 因为目前unstake有一个星期的锁定期，立即赎回者需要支付一定费用，实际费用依赖XRD流动性的占用/空闲比例动态调整，在每次立即赎回时一次性扣除。目前以年化利率计算约为: 8%左右，按此数据一次赎回的费率约为：0.16%左右，即快速赎回10000XRD的费用为16XRD.
 
