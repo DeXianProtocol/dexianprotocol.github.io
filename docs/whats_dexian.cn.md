@@ -13,11 +13,15 @@ DeXian协议是基于Radix分布式帐本的流动性协议。通常流动性被
 
 目前DeXian协议包括：
 
-* Lending Protocol, 它是Radix分布式帐本上对某些数字资产的借贷协议，它可以为流动性提供者赚取更多Token，也可以为需要流动性消耗者及时、高效地提供token以便他们把握市场波动带来的机会。这是它的基本功能，由此还可以延便更多服务，包括闪电贷等等。
+## Lending Protocol
+    它是Radix分布式帐本上对某些数字资产的借贷协议，它可以为流动性提供者赚取更多Token，也可以为需要流动性消耗者及时、高效地提供token以便他们把握市场波动带来的机会。这是它的基本功能，由此还可以延便更多服务，包括闪电贷等等。
+    
 #### 闪电贷
 是DeFi领域一种常见的即用即还借贷服务，因为DeFi服务类似于乐高积木，不同的协议，产品天然具备可组性，如果在同一个Transaction中获得借款后进行其它协议、产品的交换或使用，随后归还借款和费用的这种业务模型被称为闪电贷(Flash Loan).
 
-* Staking Earing(DSE)，它是Radix网络上基原生Liquid Stake提供的组合便捷服务，总体来说：
+## Staking Earning
+    DeXian Staking Earning(DSE)是Radix网络上基原生Liquid Stake提供的组合便捷服务，总体来说：
+
 #### 保障Radix保持更平衡健壮的网络基础设施
 DSE通过公开的Staking Network数据结合平衡算法，在保障用户尽可能最大化Stake收益的前提下，均匀平衡地将XRD分布到不同验证器(validator)上，保障了Radix网络更加平衡，更加健壮和去中心化。
 ![staking rebalance](../assets/images/stake.png)
