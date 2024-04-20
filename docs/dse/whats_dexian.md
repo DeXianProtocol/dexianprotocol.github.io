@@ -1,4 +1,14 @@
-## What's new for the DeXian Staking Earning (DSE) Babylon version?
+---
+layout: page
+menubar: docs_menu
+title: DeXian Staking Earning(MVP) QA
+subtitle: Fast Stake, Faster Unstake
+show_sidebar: false
+toc: true
+---
+
+
+# What's new for the DeXian Staking Earning (DSE) Babylon version?
 
 * Full support for Radix Babylon
 * Fully decentralized, open source implementation
