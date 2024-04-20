@@ -21,10 +21,10 @@ The following are illustrative examples of each of these three primary functions
 
 #### The process of joining
 
-![Join](/asset/images/stake.png)
+![Join](/assets/images/stake.png)
 
 #### The process of redeeming
-![Redeem](/asset/images/unstake.png)
+![Redeem](/assets/images/unstake.png)
 
 #### The process to Add or Remove Liquidity
-![add/remove liquidity](/asset/images/add_remove_liquidity.png)
+![add/remove liquidity](/assets/images/add_remove_liquidity.png)

@@ -8,6 +8,8 @@
   items:
     - name: Staking Earning(MVP)
       link: /docs/dse/mvp_qa
+    - name: What's new
+      link: /docs/dse/whats_dexian
 - label: Terms
   items:
     - name: Terms and Conditions
