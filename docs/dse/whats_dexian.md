@@ -1,7 +1,7 @@
 ---
 layout: page
 menubar: docs_menu
-title: DeXian Staking Earning(MVP) QA
+title: What's new for the DeXian Staking Earning (DSE) Babylon version?
 subtitle: Fast Stake, Faster Unstake
 show_sidebar: false
 toc: true
