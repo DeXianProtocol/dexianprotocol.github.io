@@ -12,9 +12,9 @@
 ## So, how does DSE work?
 
 There are three primary functions: 
-1) Join,
-2) Redeem, and 
-3) Add or Remove Liquidity. 
+1. Join,
+2. Redeem, and 
+3. Add or Remove Liquidity
 
 
 The following are illustrative examples of each of these three primary functions and their respective processes.
